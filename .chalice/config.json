@@ -2,7 +2,7 @@
   "version": "2.0",
   "app_name": "s3-events",
   "environment_variables": {
-    "APP_BUCKET_NAME": "BUCKET_NAME",
+    "APP_BUCKET_NAME": "wkt7ne-access",
     "DYNAMODB_TABLE_NAME": "access"
   },
   "stages": {
